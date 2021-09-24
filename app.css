@@ -1,0 +1,18 @@
+body{
+    background-color: lightskyblue
+}
+
+.calculator {
+    background-color: white;
+    height: 570px;
+    width: 400px;
+    margin: 30px auto;
+}
+
+.cal_display{
+    background-color: grey;
+    font-size: 1.5em;
+    text-align: right;
+    padding:  2rem 3rem;
+}
+
